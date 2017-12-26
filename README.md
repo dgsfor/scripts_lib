@@ -29,3 +29,9 @@ county_id:-1
   自动部署公共组件脚本
   
   组件包括zookeeper,codis,metaq,solr,nodejs
+ 
+- **3.auto_modify_tomcat_conf**
+  
+  批量修改tomcat配置，包括以下：
+
+  三个端口号，过滤jar包，字符集
