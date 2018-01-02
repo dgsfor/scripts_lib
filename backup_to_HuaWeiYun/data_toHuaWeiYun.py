@@ -1,7 +1,5 @@
 #!/usr/local/bin/python  
 # -*- coding:utf-8 -*- 
-#author :zhoulongbo
-#date: 2017-11-04
 
 import os
 from time import strftime,gmtime
