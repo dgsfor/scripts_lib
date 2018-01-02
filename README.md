@@ -35,3 +35,8 @@ county_id:-1
   批量修改tomcat配置，包括以下：
 
   三个端口号，过滤jar包，字符集
+- **4.backup_to_HuaWeiYun**
+
+  备份代码以及配置到华为云
+  首先需要安装华为云的sdk：cd sdk/src && python setup.py install
+  然后需要修改key.py里面的信息

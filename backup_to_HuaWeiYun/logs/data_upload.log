@@ -1,0 +1,11 @@
+2017-Nov-16,upload /data/gitlab/backup/data_diff_2017-Nov-16.tar.aes,success
+2017-11-19 03:00:01,upload /data/gitlab/backup/data_all_2017-Nov-18.tar.aes,success
+2017-11-26 03:00:01,upload /data/gitlab/backup/data_all_2017-Nov-25.tar.aes,success
+2017-11-29 16:16:43,upload /data/gitlab/backup/data_diff_2017-Nov-29.tar.aes,success
+2017-11-30 20:37:17,upload /data/gitlab/backup/data_diff_2017-Nov-30.tar.aes,success
+2017-12-12 09:41:24,upload /data/gitlab/backup/data_diff_2017-Dec-1.tar.aes,success
+2017-12-12 14:18:05,upload /data/gitlab/backup/data_diff_2017-Dec-2.tar.aes,failure
+2017-12-12 14:18:39,upload /data/gitlab/backup/data_diff_2017-Dec-3.tar.aes,success
+2017-12-12 14:27:29,upload /data/gitlab/backup/data_diff_2017-Dec-4.tar.aes,success
+2017-12-12 14:33:17,upload /data/gitlab/backup/data_diff_2017-Dec-5.tar.aes,success
+2018-01-02 15:29:29,upload /data/ldap_toHuaWeiYun/backup/2018-01-02-ldap-conf.tar.gz,failure

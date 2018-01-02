@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: esdk-obs-python
+Version: 2.1.17
+Summary: OBS Python SDK
+Home-page: UNKNOWN
+Author: huawei
+Author-email: UNKNOWN
+License: GPL
+Description: Huawei Cloud OBS Python SDK
+Keywords: obs,python
+Platform: Independant
