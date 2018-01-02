@@ -38,9 +38,12 @@ county_id:-1
 - **4.backup_to_HuaWeiYun**
 
   备份代码以及配置到华为云
+
   首先需要安装华为云的sdk：cd sdk/src && python setup.py install
+
   然后需要修改key.py里面的信息
 - **5.svn_backup**
   
   svn备份脚本：增量备份和全量备份
+
   使用过程中注意脚本中的路径，本脚本中的路径都是我所在公司的路径
